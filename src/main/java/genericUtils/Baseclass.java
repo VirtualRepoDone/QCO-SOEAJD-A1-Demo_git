@@ -1,7 +1,7 @@
 package genericUtils;
 
 public class Baseclass {
-public static void main(String[] args) {
+public void add() {
 	System.out.println("Changes");
 }
 }
